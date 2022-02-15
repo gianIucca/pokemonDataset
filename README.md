@@ -1,5 +1,5 @@
 # Pokemon Dataset
-## PT-BR : Dados sobre todos os pokemons, com foco em aprender a usar a biblioteca Pandas do Python de um jeito leve e divertido 
+## PT-BR : Dados sobre todos os pokemons, com foco em aprender a usar a biblioteca Pandas do Python de um jeito mais interessante
 
 //Medium link here
 
