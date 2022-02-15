@@ -3,6 +3,6 @@
 
 //Medium link here
 
-## EN : Dataset about all pokemons, focused on learning how to use the Pandas library for Python in a fun way
+## EN : Dataset about all pokemons, focused on learning how to use the Pandas library for Python in a more interesting way
 
 //Medium link here
